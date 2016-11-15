@@ -1,0 +1,7 @@
+[package]
+name = "FYP"
+version = "0.1.0"
+authors = ["Hugh Gallagher <hgallagher1993@gmail.com>"]
+
+[dependencies]
+rsteglib = { git = "https://github.com/hgallagher1993/rsteglib.git" }

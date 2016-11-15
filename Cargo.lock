@@ -1,0 +1,14 @@
+[root]
+name = "FYP"
+version = "0.1.0"
+dependencies = [
+ "rsteglib 0.1.1 (git+https://github.com/hgallagher1993/rsteglib.git)",
+]
+
+[[package]]
+name = "rsteglib"
+version = "0.1.1"
+source = "git+https://github.com/hgallagher1993/rsteglib.git#918409f9371e55aa9fa583cf2c2846d583a0a43a"
+
+[metadata]
+"checksum rsteglib 0.1.1 (git+https://github.com/hgallagher1993/rsteglib.git)" = "<none>"
